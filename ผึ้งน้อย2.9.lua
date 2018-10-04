@@ -3,7 +3,7 @@ menu1 = gg.choice({
 ' ☢ บายพาสใหม่☢',
 ' 🔧ฟังชั่นในเกมส์🔧',
 '[ออก]'},
-nil,'สลิปผึ้งน้อย VIP2.9  ขอบคุณที่ใช้สลิป ')
+nil,'สลิปผึ้งน้อย VIP2.9.1  ขอบคุณที่ใช้สลิป ')
 if menu1 == 1 then bypass() end
 if menu1 == 2 then C() end
 if menu1 == 3 then Exit() end
